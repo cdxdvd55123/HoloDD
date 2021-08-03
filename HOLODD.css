@@ -1,0 +1,101 @@
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Noto Sans TC', sans-serif;
+}
+p,a,input,label,textarea,span,ul,li{
+    font-family: 'Open Sans', sans-serif;
+}
+.btn{
+    background-color: #f85F5c;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 20px;
+}
+p{
+  color: #707070;
+}
+#intro h1{
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 1.5;
+    
+}
+#intro{
+  display: table;
+  position: relative;
+  top: 10px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+}
+#intro .jumbotron{
+  background-color: #ffe4e1;
+  height: 300px;
+}
+
+#intro .container {
+  display: table-cell;
+  vertical-align: middle;
+  
+}
+
+#intro .col-md-12 {
+  margin-left: 150px;
+  margin-right: auto;
+  width: 500px;
+  }
+
+  header nav img{
+    width: 150px;
+  }
+  header li{
+    margin: 10px;
+  }
+
+  #second{
+    position: relative;
+    top: 90px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+  }
+
+  #second img{
+    width: 130px;
+    margin-bottom:10px;
+  }
+
+#second h3{
+  font-size: 40px;
+  margin-bottom: 50px;
+}
+#latest{
+  position: relative;
+  top: 200px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+  padding: 80px 0px;
+  background: rgb(248,248,248);
+}
+#latest .row1{
+  margin-bottom: 60px;
+}
+#latest .row{
+  text-align: center;
+}
+#latest a{
+  margin-bottom: 70px;
+  font-size: 40px;
+  text-align: center;
+}
+#latest img{
+  width: 1000px;
+  display:block;
+  margin:auto
+}
+#latest span{
+  font-size: 25px;
+}
+#latest .row2{
+  margin-bottom: 60px;
+}
